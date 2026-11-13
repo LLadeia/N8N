@@ -1,0 +1,9 @@
+# Dados locais do n8n: contêm chave de criptografia, usuários e execuções
+data/config
+data/*.sqlite
+data/*.sqlite-shm
+data/*.sqlite-wal
+data/*.log
+
+# Variáveis de ambiente
+.env
